@@ -6,3 +6,15 @@
     font-family: "Inter", serif;
     color: #243e63;
 }
+
+nav {
+    background-color: bisque;
+}
+
+#landing {
+    background-color: aliceblue;
+}
+
+#features {
+    background-color: white;
+}
