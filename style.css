@@ -11,10 +11,27 @@ nav {
     background-color: bisque;
 }
 
+/* LANDING */
 #landing {
     background-color: aliceblue;
 }
-
+/* FEATURES */
 #features {
     background-color: white;
+}
+/* QUALITY */
+#quality {
+    background-color: bisque;
+}
+/* STEPS */
+#steps {
+    background-color: aliceblue;
+}
+/* VALUES */
+#values {
+    background-color: white;
+}
+/* PRICING */
+#pricing {
+background-color: bisque;
 }
