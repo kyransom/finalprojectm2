@@ -7,42 +7,98 @@
     color: #243e63;
 }
 
+.row {
+display: flex;
+flex-direction: column-reverse;
+justify-content: center;
+}
+
+.nav__row {
+display: flex;
+
+}
+
 nav {
     background-color: bisque;
 }
 
+.nav__logo {
+    display: flex;
+    position: absolute;
+}
+
+.nav__logo--img {
+    width: 40px;
+    margin: 60px 12px 32px 32px;
+}
+
+.nav__logo--title {
+    margin-top: 68px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.nav__links {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-top: 32px;
+}
+
+.nav__link {
+    margin-right: 12px;
+}
+
 /* LANDING */
+
+
 #landing {
     background-color: aliceblue;
 }
+
+
 /* FEATURES */
 #features {
     background-color: white;
 }
+
+
 /* QUALITY */
 #quality {
     background-color: bisque;
 }
+
+
 /* STEPS */
 #steps {
     background-color: aliceblue;
 }
+
+
 /* VALUES */
 #values {
     background-color: white;
 }
+
+
 /* PRICING */
 #pricing {
 background-color: bisque;
 }
+
+
 /* TESTIMONIES */
 #testimonies {
     background-color: aliceblue;
 }
+
+
 /* START */
 #start {
     background-color: white;
 }
+
+
 /* FOOTER */
 footer {
     background-color: bisque;
